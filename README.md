@@ -93,7 +93,7 @@ We will now use a trick to convert Tab 5 to a new workspace.
       > __Note__ If You have actually want to see your changes, then go ahead and choose "Switch to Pull Request"
       > 
       > Then, to make further changes, you'll need to do the following procedure: <br>
-      > 1. Click on the GitHub Pull Request Button <br>
+      > 1. Click on the GitHub Pull Request (PR) Button <br>
       > 2. Click "Create New Pull Request..." <br>
       > 3. Change the "Into" Area so it is pointing you to the right branch. <br>
       > 4. We usually have to change this from "main" to "gh-pages" <br>
@@ -145,3 +145,38 @@ We will now use a trick to convert Tab 5 to a new workspace.
    4. GitHub Code Browser
    5. GitHub Code Browser #2
    6. Website of Project
+
+   ### 2. **Issue Requirement Engineering**
+   Go to the GitHub Issue Page _(Tab 3)_ and do a deeper study of Requirement Engineering (RE) by doing the following:
+   1. Read the comment left by the Issue Manager.
+   2. Go to any links provided in the comments and study them thoroughly.
+   3. Refer back to Step 6 in the original instructions to **Understand the Issue** 
+      - Have a humble approach, knowing that you missed something.
+      - Sometimes Requirements change, so the original issue may have been updated, or the manager may have changed their mind.
+      - Also, your changes might've inspired something deeper within the issue manager and now they want to further refine this issue for a better end result
+   4. Make comments and open a discussion on the issue if you feel you need further clarification before continuing.
+
+   ### 3. **Edit the Pull Request (PR)**
+   1. Ctrl-Click the Commit # on the GitHub Issue Page _(Tab 3)_
+      > __Note__ This will be a 7 charachter link that will look something like `eb81533`
+   2. Open this new Commit Tab _(Tab 4)_
+   3. Hit the "." dot button on your keyboard.
+      > __Note__ This will auotmatically convert this tab into a GitHub Web Editor (GWE).
+   4. In the GWE, Continue editing the files you need to update. 
+   5. Refer back to the issue you chose periodically to see updates and to write comments as you feel necessary as you continue to make changes.
+      > __Warning__ You MUST continue to Step 8 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
+
+   ### 4. **Save Your Changes**
+   1. Go to the GitHub Issue Page _(Tab 3)_
+      - Keep Note of your Issue #. 
+   2. Go to the GWE Area _(Tab 5)_
+   3. Click on the Source Control Icon (or Press Ctrl-Shift-G)
+   4. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
+      > `Example: Updated Titles for Landing Page #82`
+   5. Press Ctrl-Enter to Submit Changes
+   
+   ### 5. **Continue the Discussion**
+   1. Go to the GitHub Issue Page _(Tab 3)_
+   2. Make a comment, letting the team know you updated your Pull Request
+   3. If any changes are needed, then Repeat Steps 1-4 until your PR is Merged.
+   4. Once Merged, you can move onto another issue.
