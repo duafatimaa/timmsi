@@ -131,3 +131,17 @@ We will now use a trick to convert Tab 5 to a new workspace.
    13. When doing commits, syncing should only take 5 seconds, so check your browser and authorize it.
    
    For more information, use this <a href="https://github.com/firstcontributions/first-contributions" target="_blank"> link </a> as a reference.
+   
+   <hr>
+   
+   ### **Need to Make Changes to a Pull Request?**
+   Sometimes, you'll work on an issue and you'll be asked to make changes.  No problem!  Follow the below guide to easily make changes to your edits.
+   
+   ### 1. **Prepare Your Workspace**
+   Go ahead and open all 6 Tabs like you did previously. Take a pause at this point to make sure you are organized with the following tabs:
+   1. Search Engine
+   2. This Guide
+   3. GitHub Issues Page
+   4. GitHub Code Browser
+   5. GitHub Code Browser #2
+   6. Website of Project
