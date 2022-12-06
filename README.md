@@ -1,16 +1,20 @@
 # Timmsi Learn & Earn Program
 ---
+### Introduction to GitHub
+If this is your first time ever using GitHub, then you might want to develop some beginner skills at https://skills.github.com/.
+Though, we will try to walk you through with the following instructions:
 
-## Contributing
+### Want Training?
+If you like to learn and collaborate together, then join us at https://curiosityhive.org
+
+## Contributing & Earning Money
 > We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. 
 >
 > :money_mouth_face: $\color{green}{Want}$ $\color{green}{to}$ $\color{green}{Make}$ $\color{green}{Money!?}$- We provide compensation for substantial contributions to our projects. Add a USDT Coin Account in your Profile Bio to be compensated. 
 > - [Where to find my USDT Wallet Address?](https://www.followchain.org/binance-wallet-address) 
 > - [Sample GitHub Profile with USDT Wallet](https://github.com/yennefer-m)
 
-### Introduction to GitHub
-If this is your first time ever using GitHub, then you might want to develop some beginner skills at https://skills.github.com/.
-Though, we will try to walk you through with the following instructions:
+___
 
 ### 1. **Clear Your Workspace**
 1. Open a new tab to be used for research on your favorite Search Engine _(Tab 1)_
