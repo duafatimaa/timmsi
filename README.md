@@ -84,7 +84,7 @@ We will now use a trick to convert Tab 5 to a new workspace.
    3. Go to the GWE Area _(Tab 5)_
    4. Click on the Source Control Icon (or Press Ctrl-Shift-G)
    5. Type in a Short Summary in the Message field of What Changes You Made followed by Issue Number
-      > `Example: _Updated Titles for Landing Page #82_`
+      > `Example: Updated Titles for Landing Page #82`
    7. Press Ctrl-Enter to Submit Changes
       > __Note__ If this is your first time saving here, then Click "Fork Repository" to Continue
    8. Press Enter to Create the New Pull Request from the Notification Bar
