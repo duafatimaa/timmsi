@@ -162,7 +162,8 @@ We will now use a trick to convert Tab 5 to a new workspace.
    2. Open this new Commit Tab _(Tab 4)_
    3. Hit the "." dot button on your keyboard.
       > __Note__ This will auotmatically convert this tab into a GitHub Web Editor (GWE).
-   4. In the GWE, Continue editing the files you need to update. 
+      >  You will now have Side-by-Side Editors. Red on the left is the original. Green on the right is the Updates you made.
+   4. In the GWE, Continue editing the files you need to update on the right editor. 
    5. Refer back to the issue you chose periodically to see updates and to write comments as you feel necessary as you continue to make changes.
       > __Warning__ You MUST continue to Step 8 within 2 hours, otherwise your updates might conflict with others who are working on this same issue!
 
