@@ -6,3 +6,4 @@ We have trained the same individuals for over 25 years and continue to encourage
 The Curiosity Coach does not hold your hand through the learning process, but instead reminds you how valuable it is to make mistakes and also reminds you to engage in impactful learning. This style of learning has tangible results in your community instead of mundane homework with no real-world application. In this fashion, we are able to give internships and opportunities to students of all levels within companies and organizations who are partnered with us.
 
 [Ignite Curiosity Orientation](https://ignitecuriosity.org/learn/orientation.html)
+
