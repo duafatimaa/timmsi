@@ -1,4 +1,4 @@
-# Timmsi Learn & Earn Program
+# Welcome to Timmsi
 ---
 ### Introduction to GitHub
 If this is your first time ever using GitHub, then you might want to develop some beginner skills at https://skills.github.com/.
