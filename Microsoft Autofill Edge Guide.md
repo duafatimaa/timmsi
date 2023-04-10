@@ -24,6 +24,13 @@ To use the Microsoft Autofill Edge extension, follow these steps:
 - Connect the extension to your Microsoft account.
 - Once you have installed and connected the extension to your Microsoft account, you can start using it to quickly fill out online forms.
 
+## Link to Install Microsoft Autofill Extension:
+Click on the following link to Install Microsoft Autofill Extension:
+
+https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion
+
+The user needs to sign in through their Outlook or Hotmail account. If they don't have an account, they will need to create one. To add a sync account on mobile, the user needs to go to settings and then add the sync account.
+
 ## Using the Microsoft Autofill Edge Extension
 When you encounter an online form that requires you to enter personal information, the Microsoft Autofill Edge extension will prompt you to fill it in automatically. You can choose which information you want to use, such as your name, email address, or phone number.
 
