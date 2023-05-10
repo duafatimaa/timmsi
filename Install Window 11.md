@@ -13,6 +13,9 @@ To create a Windows 11 bootable USB using Rufus:
 - Rufus will display a warning message indicating that all data on the USB drive will be destroyed. Confirm that you want to proceed.
 - Rufus will now begin creating the Windows 11 bootable USB. This process may take several minutes to complete.
 - When Rufus has finished creating the bootable USB, it will display a "READY" message. You can now safely disconnect the USB drive from your computer.
+- Rufus has Win 11 built into it.
+- Then, choose Win 11 from the dropdown menu in Rufus.
+- Rufus will download Win 11 automatically for them.
 
 ## Link to Install Win 11:
 
